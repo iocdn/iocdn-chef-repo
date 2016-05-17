@@ -1,0 +1,8 @@
+{
+  "name": "iocdn-chef.c.apc0001-1302.internal",
+  "chef_environment": "test",
+  "run_list": [
+    "recipe[yum-epel]"
+//    "recipe[apache]"
+  ]
+}

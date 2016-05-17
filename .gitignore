@@ -1,0 +1,7 @@
+.rake_test_cache
+.chef/*.pem
+.chef/encrypted_data_bag_secret
+local-mode-cache
+nodes/*internal.json
+Berksfile.lock
+site-cookbooks
